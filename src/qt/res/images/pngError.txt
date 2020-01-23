@@ -1,0 +1,25 @@
+  ./splash_testnet.png:
+   Total length of data found in critical chunks            =    123430
+  ./walletFrame.png:
+   Total length of data found in critical chunks            =    532999
+  ./leftArrow_small_dark.png:
+   Total length of data found in critical chunks            =       222
+  ./downArrow_small_dark.png:
+   Total length of data found in critical chunks            =       223
+  ./upArrow_small.png:
+   Total length of data found in critical chunks            =       206
+  ./splash.png:
+   Total length of data found in critical chunks            =    123430
+  ./upArrow_small_dark.png:
+   Total length of data found in critical chunks            =       188
+  ./qtreeview_selected.png:
+   Total length of data found in critical chunks            =       244
+  ./about.png:
+   Total length of data found in critical chunks            =     25627
+  ./rightArrow_small_dark.png:
+   Total length of data found in critical chunks            =       219
+  ./destocoin_logo_horizontal.png:
+   Total length of data found in critical chunks            =      3786
+  ./downArrow_small.png:
+   Total length of data found in critical chunks            =       168
+CPU time decode 0.075527, encode 0.000000, other 0.014666, total 0.090790 sec

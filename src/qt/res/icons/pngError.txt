@@ -1,0 +1,127 @@
+  ./clock2.png:
+   Total length of data found in critical chunks            =       870
+  ./add.png:
+   Total length of data found in critical chunks            =       325
+  ./lock_open.png:
+   Total length of data found in critical chunks            =       436
+  ./transaction0_dark.png:
+   Total length of data found in critical chunks            =       274
+  ./receive.png:
+   Total length of data found in critical chunks            =      3953
+  ./tx_inout.png:
+   Total length of data found in critical chunks            =      2368
+  ./transaction0.png:
+   Total length of data found in critical chunks            =       248
+  ./clock3.png:
+   Total length of data found in critical chunks            =       872
+  ./clock1.png:
+   Total length of data found in critical chunks            =       872
+  ./transaction2.png:
+   Total length of data found in critical chunks            =       260
+  ./masternodes_active.png:
+   Total length of data found in critical chunks            =      6834
+  ./explorer.png:
+   Total length of data found in critical chunks            =      2060
+  ./bitcoin.png:
+   Total length of data found in critical chunks            =    100042
+  ./quit.png:
+   Total length of data found in critical chunks            =       532
+  ./connect3_16.png:
+   Total length of data found in critical chunks            =       810
+  ./clock4.png:
+   Total length of data found in critical chunks            =       888
+  ./masternodes.png:
+   Total length of data found in critical chunks            =      5093
+  ./unit_udeo.png:
+   Total length of data found in critical chunks            =       529
+  ./eye_plus.png:
+   Total length of data found in critical chunks            =       559
+  ./import.png:
+   Total length of data found in critical chunks            =       918
+  ./connect1_16.png:
+   Total length of data found in critical chunks            =       530
+  ./unit_mdeo.png:
+   Total length of data found in critical chunks            =       566
+  ./qrcode.png:
+   Total length of data found in critical chunks            =       153
+  ./clock5.png:
+   Total length of data found in critical chunks            =       882
+  ./receive_active.png:
+   Total length of data found in critical chunks            =      5367
+  ./tx_input.png:
+   Total length of data found in critical chunks            =      2078
+  ./key.png:
+   Total length of data found in critical chunks            =       239
+  ./transaction_conflicted.png:
+   Total length of data found in critical chunks            =       403
+  ./filesave.png:
+   Total length of data found in critical chunks            =      1300
+  ./unit_tmdeo.png:
+   Total length of data found in critical chunks            =       625
+  ./unit_tudeo.png:
+   Total length of data found in critical chunks            =       594
+  ./staking_active.png:
+   Total length of data found in critical chunks            =       943
+  ./overview.png:
+   Total length of data found in critical chunks            =     14222
+  ./export.png:
+   Total length of data found in critical chunks            =       413
+  ./eye_minus.png:
+   Total length of data found in critical chunks            =       505
+  ./privacy_active.png:
+   Total length of data found in critical chunks            =      6519
+  ./privacy.png:
+   Total length of data found in critical chunks            =      5053
+  ./connect2_16.png:
+   Total length of data found in critical chunks            =       653
+  ./configure.png:
+   Total length of data found in critical chunks            =       224
+  ./history.png:
+   Total length of data found in critical chunks            =      3529
+  ./bitcoin_testnet.png:
+   Total length of data found in critical chunks            =    100042
+  ./overview_active.png:
+   Total length of data found in critical chunks            =     32900
+  ./tx_output.png:
+   Total length of data found in critical chunks            =      2055
+  ./lock_closed.png:
+   Total length of data found in critical chunks            =       443
+  ./remove.png:
+   Total length of data found in critical chunks            =       244
+  ./connect0_16.png:
+   Total length of data found in critical chunks            =       506
+  ./eye.png:
+   Total length of data found in critical chunks            =       440
+  ./synced.png:
+   Total length of data found in critical chunks            =       315
+  ./unit_tdeo.png:
+   Total length of data found in critical chunks            =       545
+  ./history_active.png:
+   Total length of data found in critical chunks            =      4396
+  ./notsynced.png:
+   Total length of data found in critical chunks            =       942
+  ./debugwindow.png:
+   Total length of data found in critical chunks            =      5296
+  ./edit.png:
+   Total length of data found in critical chunks            =       198
+  ./unit_deo.png:
+   Total length of data found in critical chunks            =       479
+  ./editcopy.png:
+   Total length of data found in critical chunks            =       191
+  ./tx_mined.png:
+   Total length of data found in critical chunks            =      3213
+  ./address-book.png:
+   Total length of data found in critical chunks            =       637
+  ./send_active.png:
+   Total length of data found in critical chunks            =      5392
+  ./connect4_16.png:
+   Total length of data found in critical chunks            =       929
+  ./send.png:
+   Total length of data found in critical chunks            =      3898
+  ./editpaste.png:
+   Total length of data found in critical chunks            =       196
+  ./browse.png:
+   Total length of data found in critical chunks            =       326
+  ./staking_inactive.png:
+   Total length of data found in critical chunks            =       457
+CPU time decode 0.010639, encode 0.000000, other 0.007690, total 0.018916 sec

@@ -1,0 +1,26 @@
+[Unit]
+Description=Destocoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=destocoin
+Group=destocoin
+
+Type=forking
+PIDFile=/var/lib/destocoind/destocoind.pid
+
+ExecStart=/usr/bin/destocoind -daemon -pid=/var/lib/destocoind/destocoind.pid \
+          -conf=/etc/destocoin/destocoin.conf -datadir=/var/lib/destocoind
+
+ExecStop=-/usr/bin/destocoin-cli -conf=/etc/destocoin/destocoin.conf \
+         -datadir=/var/lib/destocoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

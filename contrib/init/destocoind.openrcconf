@@ -1,0 +1,26 @@
+# /etc/conf.d/destocoind: config file for /etc/init.d/destocoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/destocoin/destocoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/destocoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/destocoind.pid"
+
+# Where to write destocoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/destocoind"
+
+# User and group to own destocoind process
+#BITCOIND_USER="destocoin"
+#BITCOIND_GROUP="destocoin"
+
+# Path to destocoind executable
+#BITCOIND_BIN="/usr/bin/destocoind"
+
+# Nice value to run destocoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
